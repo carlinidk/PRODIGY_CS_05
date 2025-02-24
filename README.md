@@ -28,7 +28,7 @@ Download and install npcap from the official website:
 ## Usage
 1. Run the script:
    ```sh
-   python network_packet_analyzer.py
+   python networkpa.py
    ```
 2. Select the desired packet filter (IP, TCP, UDP, ICMP, or all) from the dropdown.
 3. Click "Start Capture" to begin packet sniffing.
